@@ -1,6 +1,6 @@
 #intregrantes del equipo 7:
 
-Maria Luciana Garcia Chequer
+##Maria Luciana Garcia Chequer
 
 ##Jorge Anibal Lesme Aquino - 41 años Hurlingham
 
@@ -10,15 +10,15 @@ Maria Luciana Garcia Chequer
 
 #Tematica del market
 
-#se va a realizar un ecommerce de productos regionales, dirigido al publico que se encuentre en provincias distintas, en la misma o el exterior, que no pueda conseguir el producto especifico de esa región o quiera probarlo.
+####se va a realizar un ecommerce de productos regionales, dirigido al publico que se encuentre en provincias distintas, en la misma o el exterior, que no pueda conseguir el producto especifico de esa región o quiera probarlo.
 
-##link de los repositorios:
+##Link de los repositorios:
 
 ###https://github.com/luche83/C21--grupo7--proyectofinal
 
 ###https://trello.com/b/fmmObyfj/proyecto-integrador
 
-#funtes de ispiracion:
+#Funtes de ispiracion:
 
 ###https://alfajoresdeltucuman.com.ar/
 
