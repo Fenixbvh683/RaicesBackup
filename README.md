@@ -1,6 +1,6 @@
 #intregrantes del equipo 7:
 
-##Maria Luciana Garcia Chequer
+Maria Luciana Garcia Chequer
 
 ##Jorge Anibal Lesme Aquino - 41 años Hurlingham
 
@@ -18,7 +18,7 @@
 
 ###https://trello.com/b/fmmObyfj/proyecto-integrador
 
-##funtes de ispiracion:
+#funtes de ispiracion:
 
 ###https://alfajoresdeltucuman.com.ar/
 
